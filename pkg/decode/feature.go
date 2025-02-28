@@ -1,7 +1,7 @@
 package decode
 
 import (
-	"github.com/cairnapp/go-geobuf/proto"
+	"github.com/shaurysh/go-geobuf/proto"
 	"github.com/paulmach/orb/geojson"
 )
 

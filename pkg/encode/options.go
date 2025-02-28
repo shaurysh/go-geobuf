@@ -1,7 +1,7 @@
 package encode
 
 import (
-	"github.com/cairnapp/go-geobuf/pkg/math"
+	"github.com/shaurysh/go-geobuf/pkg/math"
 	"github.com/paulmach/orb"
 	"github.com/paulmach/orb/geojson"
 )

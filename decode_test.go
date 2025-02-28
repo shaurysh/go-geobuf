@@ -8,7 +8,7 @@ import (
 	"github.com/paulmach/orb"
 	"github.com/paulmach/orb/geojson"
 
-	. "github.com/cairnapp/go-geobuf"
+	. "github.com/shaurysh/go-geobuf"
 )
 
 func TestDecodePoint(t *testing.T) {

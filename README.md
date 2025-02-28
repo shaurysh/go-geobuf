@@ -18,7 +18,7 @@ A basic example shows how this library will infer the proper precision for encod
 
 ```go
 import (
-    "github.com/cairnapp/go-geobuf"
+    "github.com/shaurysh/go-geobuf"
     "github.com/paulmach/orb"
     "github.com/paulmach/orb/geojson"
 )

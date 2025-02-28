@@ -1,9 +1,9 @@
 package geobuf
 
 import (
-	"github.com/cairnapp/go-geobuf/pkg/encode"
-	"github.com/cairnapp/go-geobuf/pkg/math"
-	"github.com/cairnapp/go-geobuf/proto"
+	"github.com/shaurysh/go-geobuf/pkg/encode"
+	"github.com/shaurysh/go-geobuf/pkg/math"
+	"github.com/shaurysh/go-geobuf/proto"
 
 	"github.com/paulmach/orb/geojson"
 )
